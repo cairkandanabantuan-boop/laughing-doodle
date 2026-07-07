@@ -1,0 +1,22 @@
+{
+  "name": "Aplikasi Air Bersih",
+  "short_name": "AirBersih",
+  "description": "Aplikasi informasi air bersih",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0077B6",
+  "theme_color": "#00B4D8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
